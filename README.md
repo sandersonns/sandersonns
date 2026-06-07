@@ -1,37 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hai Dinh Nguyen</h1>
-  <h3 align="center">Business background, builder by choice · I ship real products with Rails + AI</h3>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/haidinhnguyen" target="_blank"><img 
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-  alt="LinkedIn" /></a>
-    <a href="mailto:sandersonns@gmail.com"><img 
-  src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
-  alt="Email" /></a>
-  </p>
-
-  ---
-
-  ### 👋 About me
-  - 🎓 Career-changer from a **business background**. **Le Wagon** graduate — *Concepteur développeur 
-  d'application web* (Paris, 2026).
-  - 🛠️  Currently building **Lens** — a photography platform with a **Fujifilm recipe engine**: a WebGL2
-  "digital darkroom" plus an AI look-matching module.
-  - 🤖 I build with **AI as a force multiplier** — directing, reviewing, and iterating to ship more than I
-  could alone.
-  - 📚 **Going deeper:** investing in **CS foundations** (data structures, algorithms, systems) and
-  looking for the right program to do it properly.
-
-  One thing genuinely up to you: how openly to mention the AI-assisted angle.
-
-● User answered Claude's questions:
-  ⎿  · How do you want the README to frame the AI-assisted nature of your work? → Own it confidently
-
-● Good call — owning it is the strongest play. Here's the complete README, ready to paste into your
-  sandersonns/sandersonns profile repo:
-
-  <h1 align="center">Hi 👋, I'm Hai Dinh Nguyen</h1>
-  <h3 align="center">Business background, builder by choice · I ship real products with Rails + AI</h3>
+<h3 align="center">Business background, builder by choice · I ship real products with Rails + AI</h3>
 
   <p align="center">
     <a href="https://linkedin.com/in/haidinhnguyen" target="_blank"><img 
