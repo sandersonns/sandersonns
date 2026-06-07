@@ -2,7 +2,7 @@
 <h3 align="center">Business background, builder by choice · I ship real products with Rails + AI</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/haidinhnguyen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/haidinhnguyen" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-haidinhnguyen" height="30" width="40" /></a>
   <a href="mailto:sandersonns@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
