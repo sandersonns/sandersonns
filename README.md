@@ -9,7 +9,7 @@
 ---
 
 ### 👋 About me
-- 🎓 Career-changer from a **business background**. **Le Wagon** graduate — *Concepteur développeur d'application web* (Paris, 2026).
+- 🎓 **MSc in International Management** — *International Strategy & Management*, **Audencia** (Nantes, 2023) — turned developer. **Le Wagon** graduate, *Concepteur développeur d'application web* (Paris, 2026).
 - 🛠️ Currently building **Lens** — a photography platform with a **Fujifilm recipe engine**: a WebGL2 "digital darkroom" plus an AI look-matching module.
 - 🤖 I build with **AI as a force multiplier** — directing, reviewing, and iterating to ship more than I could alone.
 - 📚 **Going deeper:** investing in **CS foundations** (data structures, algorithms, systems) and looking for the right program to do it properly.
@@ -43,19 +43,8 @@
 **Tools**
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/></a>
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cloudinary" alt="cloudinary" width="40" height="40"/></a>
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandersonns&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandersonns&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandersonns&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
