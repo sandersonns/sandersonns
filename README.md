@@ -11,7 +11,7 @@
 
 ### 👋 About me
 - 🎓 **MSc in International Management** — *International Strategy & Management*, **Audencia** (Nantes, 2023) — turned developer. **Le Wagon** graduate, *Concepteur développeur d'application web* (Paris, 2026).
-- 🛠️ Currently building **Lens** — a photography platform with a **Fujifilm recipe engine**: a WebGL2 "digital darkroom" plus an AI look-matching module.
+- 🛠️ Currently building **pbm** — a photography platform with a **Fujifilm recipe engine**: a WebGL2 "digital darkroom" plus an AI look-matching module.
 - 🤖 I build with **AI as a force multiplier** — directing, reviewing, and iterating to ship more than I could alone.
 - 📚 **Going deeper:** investing in **CS foundations** (data structures, algorithms, systems) and looking for the right program to do it properly.
 
